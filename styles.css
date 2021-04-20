@@ -1,0 +1,39 @@
+@media screen and (max-width:1500px  )
+{ 
+body { width: 1440px ; }
+}
+
+body {background-color: rgba(255,38,0,0.644) ;
+        text-align: center;
+    align-content: center;
+align-items: center;}
+
+#titrepage {border: 5px blue solid;
+               border-radius: 100px;
+               margin: auto;
+               width: 400px;
+               height: 80px;
+}
+
+#infos {background-color: blueviolet;
+     
+    margin: auto;
+border-radius: 50px;
+width: 350px;}
+
+#ingrédients { background-color: aquamarine;
+        margin: auto;
+    height: 350px;
+width: 500px;
+border-radius: 50px;
+text-align: center;
+}
+
+#préparation {background-color: rgb(0, 132, 255);
+            margin: auto;
+            height: 500px;
+            width: 620px;
+            border-radius: 70px;
+    }
+
+    
